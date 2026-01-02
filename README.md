@@ -1,4 +1,4 @@
-# ChatvVrsa — Proceso de Selección Técnica  
+# ChatVersa — Proceso de Selección Técnica  
 ## PARTE A
 
 ---
