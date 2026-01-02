@@ -56,7 +56,8 @@ Este sistema demuestra:
 
 ## 4) Diagrama general del sistema
 
-![alt text](<Arquitectura Sisteama inteligente de cotizacion automatizada.png>)
+<img width="1536" height="1024" alt="Arquitectura Sisteama inteligente de cotizacion automatizada" src="https://github.com/user-attachments/assets/b2a29520-f0ae-4abf-b894-1e5dc550c66c" />
+
 
 
 Este diagrama representa el flujo lógico completo, desde la entrada del cliente hasta la operación interna y el cierre del ciclo.
@@ -197,7 +198,8 @@ La arquitectura protege el negocio de errores típicos de IA, debido a que los L
 ### WF1 — `DV_Refresh`
 **Actualización de precios y reglas desde Google Sheets**
 
-![alt text](image-1.png)
+<img width="1592" height="708" alt="Captura de pantalla 2026-01-01 203200" src="https://github.com/user-attachments/assets/d686730a-6260-4fd3-9d06-425662f54578" />
+
 
 - Convierte hojas de cálculo en datasets normalizados.
 - Permite actualizar precios sin tocar código.
@@ -208,7 +210,8 @@ La arquitectura protege el negocio de errores típicos de IA, debido a que los L
 ### WF2 — `DV-Intake-Agent`
 **Conversación, estado y decisión**
 
-![alt text](image-2.png)
+<img width="1837" height="514" alt="Captura de pantalla 2026-01-01 203329" src="https://github.com/user-attachments/assets/190df61e-9c28-470c-bf27-4a4aaf4e852b" />
+
 
 - Entrada principal desde WhatsApp.
 - Manejo de estado, validación y decisión.
@@ -219,7 +222,8 @@ La arquitectura protege el negocio de errores típicos de IA, debido a que los L
 ### WF3 — `DV-Pricing-Engine`
 **Motor determinista de precios**
 
-![alt text](image-3.png)
+<img width="1733" height="436" alt="Captura de pantalla 2026-01-01 203352" src="https://github.com/user-attachments/assets/784819ff-ab48-4b48-a557-3735fa92f60b" />
+
 
 - Aplica reglas, rangos y fórmulas.
 - Devuelve resultados numéricos exactos.
@@ -230,7 +234,8 @@ La arquitectura protege el negocio de errores típicos de IA, debido a que los L
 ### WF4 — `DV_Trello_Sync`
 **Seguimiento operativo**
 
-![alt text](image-4.png)
+<img width="1710" height="638" alt="Captura de pantalla 2026-01-01 203421" src="https://github.com/user-attachments/assets/0129bee7-5a77-4577-a36b-148da146a666" />
+
 
 - Actualiza Trello según el estado del caso.
 - Facilita la operación diaria del negocio.
