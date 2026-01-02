@@ -509,6 +509,9 @@ Demuestra capacidad para:
 ## Funcionamiento del Flujo en producción
 https://drive.google.com/file/d/1c5KcIrLdr4wun08g1hr4-qOW8JgckwFy/view?usp=sharing
 
+## Documentación SOP
+https://docs.google.com/document/d/15K3r7WmGM5nYs95dH2XhCrfu6oAOletGCrEaagonr7A/edit?usp=sharing
+
 ## explicacion de uno de mis flujos de automatización y un aporte que puedo dar a su empresa (con este video pueden conocer mas mis capacidades)
 https://drive.google.com/file/d/1QKP3oVwtbQKQuZiyCC_JcFyihN924Mhm/view?usp=sharing
 
